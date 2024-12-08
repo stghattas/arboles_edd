@@ -1,0 +1,8 @@
+Nombre,Edad,Padre,Madre
+Juan,30,,Maria
+Pedro,25,Juan,Maria
+Ana,28,Juan,Maria
+Luis,22,Juan,Maria
+Sofia,20,Juan,Maria
+Carlos,35,,Ana
+Elena,32,Carlos,Sofia
